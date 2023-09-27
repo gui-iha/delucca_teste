@@ -1,0 +1,42 @@
+.imgbg img {
+    width: 35%;
+    overflow: visible;
+    position: absolute;
+    transform: translateX(-50%) ;
+    left: 60%;
+    z-index:2
+    
+
+  }
+
+.imgbg h3{
+    text-align: left;
+    margin-left: 1.5cm;
+    margin-right: 2cm;
+    color: white;
+    
+  }
+.imgbg label{
+    text-align: left;
+    margin-left: 1.5cm;
+    margin-right: 2cm;
+    color: white;
+    
+  }
+
+.bg1 {
+    background-color: #0a549a;
+    height: 80vh;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.bg2 {
+    background-image: url(../../assets/77578021_l.jpg);
+    height: 80vh;
+    width: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
